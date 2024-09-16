@@ -1,2 +1,1 @@
-# Wearable-Device-Data
-ECG Signal Dataset from Wearable Device
+This dataset contains ECG signals collected from a wearable device, classified into 3 classes: normal, atrial fibrillation (AF), and premature ventricular contractions (PVC)
